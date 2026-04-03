@@ -1,18 +1,20 @@
 0: .	 directory
 1: ..	 directory
 2: g	 directory
-3: f	 directory
-4: a.out
-5: ans1
-6: e	 directory
-7: ans2
-8: d	 directory
-9: main.c
-10: c	 directory
+3: a.out
+4: main.c
+5: c	 directory
+6: d	 directory
+7: f	 directory
+8: a	 directory
+9: ans1
+10: e	 directory
 11: b	 directory
 12: README.md
-13: .gitignore
-14: main.c.bak
-15: a	 directory
-16: .git	 directory
-Found b.out in ./g/g
+13: ans2
+Found a.out in ./g/a
+Found a.out in .
+Found a.out in ./c/g
+Found a.out in ./a/e
+Found a.out in ./e/f
+Found a.out in ./b/d
